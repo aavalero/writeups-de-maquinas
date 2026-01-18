@@ -13,6 +13,9 @@ http://10.129.74.0/
 ```
 ![](Pasted%20image%2020260115130710.png)
 ![](Pasted%20image%20260115130909.png)
+![](Pasted%20image%2020260115130909.png)
+
+
 
 ### GOBUSTER
 ```
