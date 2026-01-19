@@ -28,9 +28,9 @@ Modificamos nuevamente el comando para ignorar el certificado y evitar que el co
 ```
 gobuster dir -u https://10.129.76.175:443/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt --exclude-length 320 -k
 ```
-![](Pasted%20image%2020260118152009.png)
-Sin embargo seguimos sin poder acceder a los recursos debido al problema del certificado
 ![](Pasted%20image%2020260118155618.png)
+Sin embargo seguimos sin poder acceder a los recursos debido al problema del certificado
+![](Pasted%20image%2020260118152009.png)
 
 ### CURL
 
